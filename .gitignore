@@ -1,0 +1,3 @@
+euler_common/primezips/*
+euler_common/primes*.bin
+**/*.pyc
