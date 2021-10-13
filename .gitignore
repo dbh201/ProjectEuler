@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+euler_commmon/primezips/*
+euler_commmon/primes*.bin
+commmon/primezips/*
+commmon/primes*.bin
 primezips/*
 primes*.bin
 creds.txt
 answers.txt
-=======
-euler_common/primezips/*
-euler_common/primes*.bin
->>>>>>> fbaf8f8e104161453f2f75ec734b6061348c8a65
 **/*.pyc
