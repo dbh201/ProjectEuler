@@ -1,7 +1,7 @@
-euler_commmon/primezips/*
-euler_commmon/primes*.bin
-commmon/primezips/*
-commmon/primes*.bin
+euler_common/primezips/*
+euler_common/primes*.bin
+common/primezips/*
+common/primes*.bin
 primezips/*
 primes*.bin
 creds.txt
