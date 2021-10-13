@@ -1,4 +1,3 @@
 euler_common/primezips/*
 euler_common/primes*.bin
-euler_common/creds.txt
 **/*.pyc
